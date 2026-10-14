@@ -36,11 +36,11 @@ superhero/
 - **Data:** se encarga de gestionar el acceso a los datos, tanto desde fuentes locales (`local`) como remotas (`remote`).
 - **Domain:** contiene la lógica de negocio de la aplicación, incluyendo el modelo `Superhero`, el contrato `SuperheroRepository` y el caso de uso `GetSuperheroUseCase`.
 - **Presentation:** contiene la lógica de presentación y los componentes encargados de gestionar el estado de la interfaz de usuario, como `SuperheroListViewModel`.
-- ## 👩‍🏫Estructura grafica inicial del proyecto 
-<img width="505" height="584" alt="image" src="https://github.com/user-attachments/assets/f9a4a577-4c05-42fc-9431-47e01817094a" />
 
 ## 🚀 Conclusión
 
 Este proyecto representa un punto de partida para profundizar en **Clean Architecture, MVVM y Kotlin**, aplicando estos conceptos de forma práctica mediante el desarrollo de una aplicación de superhéroes.
 
 El objetivo no es únicamente construir una aplicación funcional, sino también comprender las decisiones arquitectónicas que hay detrás de ella y disfrutar del proceso de aprendizaje y desarrollo.
+- ## 👩‍🏫Estructura grafica inicial del proyecto 
+<img width="505" height="584" alt="image" src="https://github.com/user-attachments/assets/f9a4a577-4c05-42fc-9431-47e01817094a" />
