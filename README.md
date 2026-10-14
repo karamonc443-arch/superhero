@@ -19,17 +19,17 @@ La estructura inicial del proyecto es la siguiente:
 ```text
 superhero/
 └── feature/
-    ├── data/
-    │   ├── local/
-    │   └── remote/
-    ├── domain/
-    │   ├── Superhero.kt
-    │   ├── SuperheroRepository.kt
-    │   └── GetSuperheroUseCase.kt
-    └── presentation/
-        └── SuperheroListViewModel.kt
+    └── superhero/
+        ├── data/
+        │   ├── local/
+        │   └── remote/
+        ├── domain/
+        │   ├── Superhero.kt
+        │   ├── SuperheroRepository.kt
+        │   └── GetSuperheroUseCase.kt
+        └── presentation/
+            └── SuperheroListViewModel.kt
 ```
-
 ## 📦 Descripción de las capas
 
 - **Data:** se encarga de gestionar el acceso a los datos, tanto desde fuentes locales (`local`) como remotas (`remote`).
