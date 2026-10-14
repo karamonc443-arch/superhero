@@ -30,7 +30,7 @@ superhero/
         └── presentation/
             └── SuperheroListViewModel.kt
 ```
-## 👩‍🏫Estructura grafica del proyecto
+## 👩‍🏫Estructura grafica inicial del proyecto 
 <img width="505" height="584" alt="image" src="https://github.com/user-attachments/assets/f9a4a577-4c05-42fc-9431-47e01817094a" />
 
 ## 📦 Descripción de las capas
