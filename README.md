@@ -30,6 +30,9 @@ superhero/
         └── presentation/
             └── SuperheroListViewModel.kt
 ```
+## 👩‍🏫Estructura grafica del proyecto
+<img width="505" height="584" alt="image" src="https://github.com/user-attachments/assets/f9a4a577-4c05-42fc-9431-47e01817094a" />
+
 ## 📦 Descripción de las capas
 
 - **Data:** se encarga de gestionar el acceso a los datos, tanto desde fuentes locales (`local`) como remotas (`remote`).
