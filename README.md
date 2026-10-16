@@ -45,7 +45,10 @@ El objetivo no es únicamente construir una aplicación funcional, sino también
 - ## 👩‍🏫Estructura grafica inicial del proyecto 
 <img width="505" height="584" alt="image" src="https://github.com/user-attachments/assets/f9a4a577-4c05-42fc-9431-47e01817094a" />
 
-- ## Segundo día de desarrollo <img width="480" height="266" alt="LetsGoApplauseGIFbyEmmys" src="https://github.com/user-attachments/assets/e8a46f4f-7416-4869-8675-6b5fed08abb4" />
+- ## Segundo día de desarrollo
+
+- <img width="480" height="266" alt="LetsGoApplauseGIFbyEmmys" src="https://github.com/user-attachments/assets/e8a46f4f-7416-4869-8675-6b5fed08abb4" 
+      
 <img width="1668" height="689" alt="image" src="https://github.com/user-attachments/assets/d2404573-e6dd-4505-aa76-ad7d2b27302d" />
 
   
