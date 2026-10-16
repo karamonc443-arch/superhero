@@ -47,7 +47,8 @@ El objetivo no es únicamente construir una aplicación funcional, sino también
 
 - ## Segundo día de desarrollo
 
-- <img width="480" height="266" alt="LetsGoApplauseGIFbyEmmys" src="https://github.com/user-attachments/assets/e8a46f4f-7416-4869-8675-6b5fed08abb4" 
+<img width="237" height="185" alt="HappyJonahHillGIFbyWeTV" src="https://github.com/user-attachments/assets/d74a1f39-68a4-4214-b639-9ddc1fd7b737" />
+
       
 <img width="1668" height="689" alt="image" src="https://github.com/user-attachments/assets/d2404573-e6dd-4505-aa76-ad7d2b27302d" />
 
