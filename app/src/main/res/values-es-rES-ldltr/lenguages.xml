@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Superhéroes</string>
+    <string name="app_cache">Caché de la aplicación</string>
+    <string name="name_superhero">Nombre del superhéroe</string>
+    <string name="slug_superhero">Identificador del superhéroe</string>
+    <string name="description_superhero">Descripción del superhéroe</string>
+    <string name="image_description">Descripción de la imagen</string>
+    <string name="xml_local_superhero">XML local del superhéroe</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_width">120dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+    <dimen name="list_height">180dp</dimen>
+    <dimen name="text_name_desc_slug_marginStar">16dp</dimen>
+    <dimen name="text_name_desc_marginTop">8dp</dimen>
+    <dimen name="text_name_size">24sp</dimen>
+    <dimen name="text_des_size">16sp</dimen>
+    <dimen name="text_slug_size">18sp</dimen>
+    <dimen name="text_width">0dp</dimen>
+</resources>

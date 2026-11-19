@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperHero</string>
+    <string name="app_cache">App_Cache</string>
+    <string name="name_superhero">name_superhero</string>
+    <string name="slug_superhero">slug_superhero</string>
+    <string name="description_superhero">description_superhero</string>
+    <string name="image_description">image_description</string>
+    <string name="xml_local_superhero">image_description</string>
+</resources>
